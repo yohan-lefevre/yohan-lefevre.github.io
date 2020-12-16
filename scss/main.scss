@@ -1,0 +1,10 @@
+// Your variable overrides
+$body-bg: #000;
+$body-color: #eee;
+
+$theme-colors: (
+        "primary": #048a18,
+        "danger": #ff4136
+);
+// Bootstrap and its default variables
+@import "../node_modules/bootstrap/scss/bootstrap";
